@@ -17,8 +17,9 @@ Installation steps:
 
 After installation, you can run the program using the following command:
 
-python caesar_cipher.py
-
+    
+    python caesar_cipher.py
+    
 
 ## User Interface (UI)
 
@@ -26,9 +27,13 @@ This program also provides a simple user interface (UI) using the PyQt5 library.
 
 To launch the user interface, PyQt5 library needs to be installed. If PyQt5 is not installed, you can install it using the following command:
 
-pip install PyQt5
+    
+    pip install PyQt5
+    
 
 
 You can launch the user interface using the following command:
 
-python caesar_cipher_ui.py
+    
+    python caesar_cipher_ui.py
+    
